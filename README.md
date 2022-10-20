@@ -1,8 +1,6 @@
 # IconFinderAppAndroid
 App to download icons from iconfinder API
 
-# Icon Finder Android App
-
 
 ## Setup
 - Get an api key from IconFinder
